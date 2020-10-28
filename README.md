@@ -1,4 +1,4 @@
-# g
+# Users CSV registering
 
 This little script allows to register multiple users from a given CSV file.
 It parses the CSV to extract users and send a POST request to the endpoint which
