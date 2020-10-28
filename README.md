@@ -4,12 +4,12 @@ This little script allows to register multiple users from a given CSV file.
 It parses the CSV to extract users and send a POST request to the endpoint which
 is responsible of creating users.
 
-# Install
+## Install
 
 This need script needs few dependencies. To install these dependencies
 juste run `pip install -r requirements.txt`.
 
-# Usage
+## Usage
 
 ```
 Usage: register-users.py [options]
